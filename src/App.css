@@ -1,0 +1,11 @@
+body {
+    background-color: #202020;
+}
+
+.white_text {
+    color: white;
+}
+
+.error-text {
+    color: red;
+}
